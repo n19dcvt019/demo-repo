@@ -1,0 +1,10 @@
+Nội dung trình bày:
+1. Giới thiệu về quản trị mạng và tự động hóa trong quản trị mạng
+2. Giới thiệu về Ansible và nguyên lí hoạt độngg   
+3. Thực hiện bài mô phongrg 
+
+
+
+Slide 9
+Mô hình mạng bao gồm 1 site DC, 1 site DR( để backup cho DC) , và 1 site branch.
+Tát cả các node trong mô hình đều được kết nối ra Internet. 
