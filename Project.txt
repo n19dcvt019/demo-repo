@@ -1,0 +1,73 @@
+Tên đề tài: Tự động hóa cấu hình với Ansible
+
+Giới thiệu về ansible
+- Anssible      la gì
+- Lịch sử phát triển 
+- lợi ích 
+- Cách làm việc của ansible 
+- Tính bảo mật của ansible
+- Các công cụ quản lí ( AWX, Ansble Tower)
+Các thành phần của ansible
+- YAML syntax
+- PLaybook
+- Output playbook
+- Multi tasks
+
+Các tính năng tự động hóa của ansible
+- Roles
+- Group vars
+- Hosts vars
+
+Lab mô phỏng ansible 
+- Thiết kế tôp
+- Cài đặt Ansible
+- Tạo Playbook
+- Thực thi tự động hóa
+
+
+
+Tên đề tài: Tự động hóa cấu hình với Ansible
+
+- Tổng quan về quá trình tự động hóa trong quản trị mạng
+- Giới thiệu tổng quan về ansible và ứng dụng của ansible trongg tự động hóa
+    Các thành phần của ansible
+    Các tính năng tự động hóa của ansible
+- Lab mô phỏng ansible 
+
+1 Giới thiệu về Ansible:
+Giới thiệu tổng quan về Ansible, là một công cụ mã nguồn mở dùng để tự động hóa quản lý cơ sở hạ tầng và cấu hình hệ thống.
+Mô tả lý do tại sao Ansible quan trọng trong ngành công nghiệp IT.
+
+2 Các thành phần của Ansible:
+
+Trình diễn các thành phần chính của Ansible, bao gồm Ansible Controller, Inventory, Playbooks, Modules, và Roles.
+Giải thích cách các thành phần này tương tác với nhau trong quá trình tự động hóa.
+3 Các tính năng tự động hóa của Ansible:
+
+Đặc điểm của Ansible như khả năng triển khai cấu hình, quản lý gói phần mềm, và thực hiện các tác vụ tự động hóa.
+Giới thiệu về các tính năng mạnh mẽ như idempotency, xác thực, và quản lý tập trung.
+
+Giới thiệu về Ansible:
+
+Đưa ra một ví dụ cụ thể về tình huống trong thế giới thực mà Ansible có thể giúp giải quyết.
+Trình bày lý do tại sao tự động hóa cấu hình là quan trọng trong quản lý hệ thống và tại sao Ansible là lựa chọn phù hợp.
+Đề cập đến sự phát triển và mức độ phổ biến của Ansible trong ngành công nghiệp IT.
+Các thành phần của Ansible:
+
+Mô tả chi tiết về các thành phần chính của Ansible, bao gồm:
+Ansible Controller: Giải thích cách nó hoạt động và cách tương tác với các nút mục tiêu.
+Inventory: Cung cấp thông tin về cách quản lý danh sách các máy chủ và các cụm máy chủ.
+Playbooks: Mô tả cách Playbooks được sử dụng để định nghĩa tác vụ và cấu hình.
+Modules: Trình bày các Modules có sẵn và cách chúng hoạt động.
+Roles: Giới thiệu khái niệm về Roles và cách chúng giúp tổ chức Playbooks một cách tốt hơn.
+Các tính năng tự động hóa của Ansible:
+
+Đặc điểm thêm về những tính năng mạnh mẽ của Ansible như idempotency (khả năng thực hiện nhiều lần mà không gây thay đổi), xác thực, và quản lý tập trung.
+Trình bày cách Ansible có thể triển khai, cấu hình, và quản lý tập trung hệ thống, bao gồm việc tự động triển khai ứng dụng, cập nhật phần mềm, và quản lý máy chủ.
+
+4 Lab mô phỏng Ansible:
+
+Tạo các ví dụ thực tế về việc sử dụng Ansible để tự động hóa cấu hình hệ thống.
+Chia sẻ các kịch bản thực hiện các tác vụ cụ thể, ví dụ: triển khai ứng dụng web, cấu hình máy chủ, sao lưu dữ liệu, vv.
+
+
