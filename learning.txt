@@ -1,0 +1,13 @@
+1- Jenkins
+2- Docker
+3- Kubernetes
+Learn Kubernetes - [ youtube playlist ]
+https://www.youtube.com/playlist?list=PL39tDLzWvRVYcilrX349DRs4qGgiCkRTi
+
+Learn docker -[ youtube playlist ]
+https://www.youtube.com/playlist?list=PL39tDLzWvRVahmaH4QgmFwbpUW9J3vgk4
+
+Learn Jenkins - [ youtube playlist ]
+https://www.youtube.com/playlist?list=PL39tDLzWvRVb-RswcPdp515J4B3Nj8pgM
+
+Happy Learning 😎
